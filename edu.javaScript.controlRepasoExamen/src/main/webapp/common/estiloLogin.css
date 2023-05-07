@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+.divLogin{
+	width: 15%;
+	margin: 0 auto;
+	background-image: url("./descarga.jpg");
+}
+
+.divLogin input{
+	margin-top: 10px;
+	display: block;
+	margin: 0 auto;
+}
+
+.botonEnviar{
+	border-radius: 30px;
+	font-size: 1.2em;
+	display: block;
+	margin: 0 auto;
+	margin-top: 10px;
+}

@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.calculadoraDiv{
+	text-align: center;
+	width: fit-content;
+}
+
+.calculadoraDiv input{
+	padding: 5px 10px;
+}
